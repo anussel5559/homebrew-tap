@@ -1,4 +1,4 @@
-class F1Tui < Formula
+class F1tui < Formula
   desc "Terminal-based Formula 1 Session Interface"
   homepage "https://github.com/anussel5559/f1-tui"
   version "0.4.0"
